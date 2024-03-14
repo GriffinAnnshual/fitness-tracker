@@ -6,7 +6,7 @@ import axios from 'axios'
 import LOGO from '../../assets/images/logo.png'
 
 
-function Dashboard() {
+function DashBoard() {
 	import("./DashBoard.css")
 	const handleWorkout = () =>{
 		window.location.href = "/workOut1"
@@ -217,4 +217,4 @@ function Dashboard() {
 
 					}
 
-export default Dashboard
+export default DashBoard

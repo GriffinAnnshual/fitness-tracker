@@ -125,11 +125,11 @@ function DashBoard() {
 	}
 	return (
 		<div>
-			 <div>
-			 <img className="Logo" src={LOGO} alt="LOGO" /> 
-             <h2 className="webname pt-4">MyFit MyHealth</h2>
-			 </div>
-			 <div className="w-full font-new-sans">
+			<div>
+			<img className="Logo" src={LOGO} alt="LOGO" /> 
+            <h2 className="webname pt-4">MyFit MyHealth</h2>
+			</div>
+			<div className="w-full font-new-sans">
 			<div className="text-[2rem] font-bold p-4 pt-[7%]">
 				Dashboard
 				<p className="text-[1.2rem] pt-10">Monthly View</p>
